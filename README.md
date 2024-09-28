@@ -4,6 +4,8 @@ Disclaimer: The search Keyword is highlighted using Asterik(*) in Search results
 
 **OCR and Document Search Web Application using Qwen2-VL 7B and ColPali Byaldi**
 
+**WEB APP URL--**  **https://huggingface.co/spaces/KalkiInfinity/Proto_OCR**
+
 This project demonstrates an Optical Character Recognition (OCR) and Document Search web application using the Qwen2-VL 7B Instruct model for extracting text from images and performing keyword searches within the extracted text. The implementation leverages the ColPali Byaldi library for efficient vision-language tasks, and the web interface is powered by Gradio.
 
 **Key Features**:
@@ -15,6 +17,7 @@ Web Interface: Simple, user-friendly interface powered by Gradio.
 **Limitations**:
 Performance: Since the Qwen2-VL 7B model is large, it may take some time to process images on CPU-based environments (such as Hugging Face Spaces free tier).
 OCR Accuracy: The accuracy of the text extraction depends on the quality of the image and the content itself.
+
 
 
 

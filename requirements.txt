@@ -1,4 +1,7 @@
 torch
+torchvision
 transformers
 gradio
 accelerate
+colpali-byaldi
+
